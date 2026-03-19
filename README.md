@@ -34,8 +34,7 @@ Make sure ‘Countries.csv’ is in the same directory as the notebook.
 -   Explored regional differences in data
 
 🚀 How to Run
-1.  Clone this repository: git clone
-    https://github.com/your-username/countries-data-analysis.git
+1.  Clone this repository.
 2.  Navigate to the project folder: cd countries-data-analysis
 3.  Open the Jupyter Notebook: jupyter notebook Countries.ipynb
 
